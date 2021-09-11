@@ -7,7 +7,7 @@ Takes power from a 9-24VDC power adapter.
 
 PCB based on the original Pi-Power project from Tonymac32.
 
-![Image](https://github.com/Tonymac32/Pi-Power/blob/master/images/board.PNG "board")
+![Image](images/board.PNG "board")
 
 ##A Warning from the original author
 
