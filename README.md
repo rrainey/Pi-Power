@@ -9,6 +9,9 @@ PCB based on the original Pi-Power project from Tonymac32.
 
 ![Image](images/board.PNG "board")
 
-##A Warning from the original author
+## A Warning from the original author
 
-Do not stick your fingers into this circuit while it's powering something you care about.  Your fingers have a resistance value, and will change the feedback network regulating the output (R2,4), and/or bridge the compensation circuit (R3,C4) potentially causing a power surge to the board.  Follow typical electrical rules, don't stick your hands into live power supply circuits.
+Do not stick your fingers into this circuit while it's powering 
+something you care about.  
+Your fingers have a resistance value, and will change the feedback network regulating the output circuit, potentially 
+causing a power surge.  
