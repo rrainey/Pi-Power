@@ -1,16 +1,14 @@
-# Pi-Power
+# Pi-Power for DSKY-matic
 
-Simple 3 Amp power supply board to power the single board computer over GPIO.  Input should be between 9 and 24 VDC.
+This is an integrated power supply for the DSKY-matic.  It supplies 5VDC for the
+Raspberry Pi, keyboard, and alarm modules. It also supplies either +3.3VDC or +7VDC for the Diaply module, depending on whether you are using the LED or EL variant of that module.
 
-Help keep me free to do this sort of thing, if the designs pay for themselves there will be more:
-[Donate Here][paypal]
+Takes power from a 9-24VDC power adapter.
 
-[paypal]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=6JRRCSB28828Y&source=url
+PCB based on the original Pi-Power project from Tonymac32.
 
 ![Image](https://github.com/Tonymac32/Pi-Power/blob/master/images/board.PNG "board")
 
-Board breaks out SPI and I2C, and provides some 5V 2.54mm headers toward the bottom and some general proto area in the middle.
-
-Simple word of warning:
+##A Warning from the original author
 
 Do not stick your fingers into this circuit while it's powering something you care about.  Your fingers have a resistance value, and will change the feedback network regulating the output (R2,4), and/or bridge the compensation circuit (R3,C4) potentially causing a power surge to the board.  Follow typical electrical rules, don't stick your hands into live power supply circuits.
