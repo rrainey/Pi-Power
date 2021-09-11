@@ -1,7 +1,7 @@
 # Pi-Power for DSKY-matic
 
 This is an integrated power supply for the DSKY-matic.  It supplies 5VDC for the
-Raspberry Pi, keyboard, and alarm modules. It also supplies either +3.3VDC or +7VDC for the Diaply module, depending on whether you are using the LED or EL variant of that module.
+Raspberry Pi, keyboard, and alarm modules. It also supplies either +3.3VDC or +7VDC for the Display module, depending on whether you are using the LED or EL variant of that module.
 
 Takes power from a 9-24VDC power adapter.
 
