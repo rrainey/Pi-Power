@@ -5,7 +5,7 @@ Raspberry Pi, keyboard, and alarm modules. It also supplies either +3.3VDC or +7
 
 Takes power from a 9-24VDC power adapter. I am testing the DSKY-matic using a TRIAD model WS8U090-2000; 7VDC 2.0A.
 
-PCB based on the original Pi-Power project from Tonymac32.
+PCB based on the original Pi-Power project from Tonymac32. I added a separate +3.3 VDC section to the original +5 VDC-only design.
 
 ![Image](images/board.PNG "board")
 
