@@ -5,8 +5,8 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "DSKY-matic power distribution board"
-Date "2021-09-09"
-Rev "V1"
+Date "2021-10-09"
+Rev "V2"
 Comp "Riley Rainey"
 Comment1 "based on original project from Electric Graveyard"
 Comment2 ""
