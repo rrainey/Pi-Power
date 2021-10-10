@@ -3,7 +3,7 @@
 This is an integrated power supply for the DSKY-matic.  It supplies 5VDC for the
 Raspberry Pi, keyboard, and alarm modules. It also supplies either +3.3VDC or +7VDC for the Display module, depending on whether you are using the LED or EL variant of that module.
 
-Takes power from a 9-24VDC power adapter.
+Takes power from a 9-24VDC power adapter. I am testing the DSKY-matic using a TRIAD model WS8U090-2000; 7VDC 2.0A.
 
 PCB based on the original Pi-Power project from Tonymac32.
 
