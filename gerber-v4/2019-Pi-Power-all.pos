@@ -1,0 +1,38 @@
+### Footprint positions - created on 2025-03-30T18:32:21-0500 ###
+### Printed by KiCad version 9.0.0
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val                  Package                                    PosX       PosY       Rot  Side
+P1        Conn_02x20_Odd_Even  PinSocket_2x20_P2.54mm_Vertical          8.3700    51.2300  -90.0000  bottom
+C1        100nF                C_0603_1608Metric                       19.3040    26.9495  -90.0000  top
+C2        10uF                 C_Elec_6.3x5.8                          12.4460    19.0500  180.0000  top
+C3        100nF                C_0603_1608Metric                       15.7480    24.1300    0.0000  top
+C4        22uF                 C_Elec_6.3x5.8                          28.4480    22.6060  -90.0000  top
+C5        150pF                C_0603                                  13.5890    36.5640   90.0000  top
+C6        100nF                C_0603_1608Metric                       46.4820    26.9495  -90.0000  top
+C7        10uF                 C_Elec_6.3x5.8                          39.3700    19.0500  180.0000  top
+C8        100nF                C_0603_1608Metric                       43.4340    24.1300    0.0000  top
+C9        22uF                 C_Elec_6.3x5.8                          55.8800    23.1140  -90.0000  top
+C10       220pF                C_0603_1608Metric                       41.4020    36.3220   90.0000  top
+D1        D_Schottky           DO-214AC                                22.6060    26.6700  -90.0000  top
+D2        D_Schottky           DO-214AC                                49.5300    26.6700  -90.0000  top
+J1        Barrel_Jack_Switch   BARREL_JACK                             27.4320    11.9380   90.0000  top
+J2        1719710004           MOLEX_1719710004                         6.4143    44.8550  180.0000  top
+J3        Conn_01x04           PinHeader_1x04_P2.54mm_Vertical         60.4520    39.1160    0.0000  top
+J4        Conn_02x04_Odd_Even  Pin_Header_Straight_2x04_Pitch2.54mm    41.9100     5.8420   90.0000  top
+J5        Conn_01x04           Pin_Header_Straight_1x04_Pitch2.54mm    31.2420    47.6250   90.0000  top
+J6        Conn_01x04           Pin_Header_Straight_1x04_Pitch2.54mm    31.2420    43.9420   90.0000  top
+J7        Conn_02x02_Odd_Even  Pin_Header_Straight_2x02_Pitch2.54mm    24.1300    45.0850   90.0000  top
+L1        22uH                 L_10.4x10.4_H4.8                        23.8760    36.3220  180.0000  top
+L2        10uH                 L_10.4x10.4_H4.8                        51.9840    36.5760  180.0000  top
+R1        210k                 R_0603_1608Metric                        7.8740    34.2900    0.0000  top
+R2        40.2k                R_0603_1608Metric                       10.1600    35.0520   90.0000  top
+R3        100k                 R_0603_1608Metric                       12.4205    24.1300  180.0000  top
+R4        100k                 R_0603_1608Metric                       11.9380    36.5760  -90.0000  top
+R5        124K                 R_0603_1608Metric                       35.3060    34.0360    0.0000  top
+R6        40.2k                R_0603_1608Metric                       37.5920    34.7980   90.0000  top
+R7        200k                 R_0603_1608Metric                       39.1160    24.1300  180.0000  top
+R8        68.1k                R_0603_1608Metric                       39.8780    36.3220  -90.0000  top
+U1        MP1584               SO-8_5.3x6.2mm_P1.27mm                  14.2875    29.8450  -90.0000  top
+U2        MP1584               SO-8_5.3x6.2mm_P1.27mm                  41.9100    29.7180  -90.0000  top
+## End
